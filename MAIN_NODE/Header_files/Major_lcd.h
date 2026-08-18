@@ -7,4 +7,4 @@ void DispLCD(u8);
 void StrLCD(unsigned char*);
 void IntLCD(s32);
 void FltLCD(f32);
-void StoreCustCharFont(void);							           
+void StoreCustCharFont(void);
